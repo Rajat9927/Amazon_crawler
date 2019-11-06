@@ -4,19 +4,6 @@
 
 <?php
 
-
-
-
-/*
-
-$myfile=fopen("source.html","r");
-echo fread($myfile,filesize("source.html"));
-flose($myfile);
-
-*/
-
-
-
 $file=file_get_contents("source.html");
 
 
